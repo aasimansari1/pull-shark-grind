@@ -85,3 +85,4 @@
 - refactor: changelog entry 9 (2026-05-17 13:30:02 UTC)
 - fix: changelog entry 34 (2026-05-17 13:46:32 UTC)
 - improve: changelog entry 36 (2026-05-17 13:47:51 UTC)
+- refactor: changelog entry 42 (2026-05-17 13:51:49 UTC)
