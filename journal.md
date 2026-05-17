@@ -27,3 +27,4 @@
 - improve: journal entry 188 (2026-05-17 09:36:55 UTC)
 - perf: journal entry 192 (2026-05-17 09:39:33 UTC)
 - improve: journal entry 194 (2026-05-17 09:40:53 UTC)
+- docs: journal entry 9 (2026-05-17 10:48:05 UTC)
