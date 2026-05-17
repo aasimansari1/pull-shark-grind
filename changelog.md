@@ -31,3 +31,4 @@
 - improve: changelog entry 129 (2026-05-17 08:58:06 UTC)
 - improve: changelog entry 131 (2026-05-17 08:59:25 UTC)
 - feature: changelog entry 141 (2026-05-17 09:06:00 UTC)
+- style: changelog entry 148 (2026-05-17 09:10:39 UTC)
