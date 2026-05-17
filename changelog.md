@@ -122,3 +122,4 @@
 - perf: changelog entry 44 (2026-05-17 16:06:11 UTC)
 - refactor: changelog entry 48 (2026-05-17 16:08:51 UTC)
 - feature: changelog entry 49 (2026-05-17 16:09:31 UTC)
+- fix: changelog entry 55 (2026-05-17 16:13:30 UTC)
