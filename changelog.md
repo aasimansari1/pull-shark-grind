@@ -15,3 +15,4 @@
 - perf: changelog entry 8 (2026-05-17 07:38:05 UTC)
 - refactor: changelog entry 13 (2026-05-17 07:41:26 UTC)
 - fix: changelog entry 25 (2026-05-17 07:49:36 UTC)
+- fix: changelog entry 36 (2026-05-17 07:56:50 UTC)
