@@ -109,3 +109,4 @@
 - chore: changelog entry 157 (2026-05-17 15:07:58 UTC)
 - refactor: changelog entry 165 (2026-05-17 15:13:17 UTC)
 - docs: changelog entry 179 (2026-05-17 15:22:33 UTC)
+- improve: changelog entry 189 (2026-05-17 15:29:13 UTC)
