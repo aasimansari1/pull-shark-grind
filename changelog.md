@@ -116,3 +116,4 @@
 - update: changelog entry 13 (2026-05-17 15:45:41 UTC)
 - refactor: changelog entry 19 (2026-05-17 15:49:41 UTC)
 - style: changelog entry 22 (2026-05-17 15:51:40 UTC)
+- refactor: changelog entry 28 (2026-05-17 15:55:18 UTC)
