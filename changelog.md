@@ -113,3 +113,4 @@
 - perf: changelog entry 195 (2026-05-17 15:33:12 UTC)
 - feature: changelog entry 199 (2026-05-17 15:35:50 UTC)
 - improve: changelog entry 200 (2026-05-17 15:36:29 UTC)
+- update: changelog entry 13 (2026-05-17 15:45:41 UTC)
