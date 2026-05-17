@@ -83,3 +83,4 @@
 - chore: changelog entry 195 (2026-05-17 13:20:34 UTC)
 - feature: changelog entry 196 (2026-05-17 13:21:14 UTC)
 - refactor: changelog entry 9 (2026-05-17 13:30:02 UTC)
+- fix: changelog entry 34 (2026-05-17 13:46:32 UTC)
