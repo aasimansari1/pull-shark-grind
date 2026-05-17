@@ -48,3 +48,4 @@
 - feature: changelog entry 49 (2026-05-17 11:14:30 UTC)
 - fix: changelog entry 50 (2026-05-17 11:15:10 UTC)
 - perf: changelog entry 5 (2026-05-17 11:15:30 UTC)
+- refactor: changelog entry 14 (2026-05-17 11:21:27 UTC)
