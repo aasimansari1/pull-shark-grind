@@ -70,3 +70,4 @@
 - docs: changelog entry 119 (2026-05-17 12:30:28 UTC)
 - refactor: changelog entry 121 (2026-05-17 12:31:46 UTC)
 - add: changelog entry 174 (2026-05-17 12:37:01 UTC)
+- refactor: changelog entry 145 (2026-05-17 12:47:27 UTC)
