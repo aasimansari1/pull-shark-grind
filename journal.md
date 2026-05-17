@@ -18,3 +18,4 @@
 - fix: journal entry 98 (2026-05-17 08:37:44 UTC)
 - docs: journal entry 118 (2026-05-17 08:50:53 UTC)
 - docs: journal entry 122 (2026-05-17 08:53:30 UTC)
+- style: journal entry 125 (2026-05-17 08:55:30 UTC)
