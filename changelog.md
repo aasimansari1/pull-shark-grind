@@ -41,3 +41,4 @@
 - update: changelog entry 186 (2026-05-17 09:35:36 UTC)
 - refactor: changelog entry 190 (2026-05-17 09:38:14 UTC)
 - add: changelog entry 193 (2026-05-17 09:40:14 UTC)
+- improve: changelog entry 198 (2026-05-17 09:43:30 UTC)
