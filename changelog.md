@@ -90,3 +90,4 @@
 - add: changelog entry 46 (2026-05-17 13:54:26 UTC)
 - fix: changelog entry 48 (2026-05-17 13:55:46 UTC)
 - update: changelog entry 60 (2026-05-17 14:03:43 UTC)
+- perf: changelog entry 75 (2026-05-17 14:13:42 UTC)
