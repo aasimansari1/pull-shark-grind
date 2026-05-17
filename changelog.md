@@ -81,3 +81,4 @@
 - update: changelog entry 176 (2026-05-17 13:07:59 UTC)
 - perf: changelog entry 178 (2026-05-17 13:09:19 UTC)
 - chore: changelog entry 195 (2026-05-17 13:20:34 UTC)
+- feature: changelog entry 196 (2026-05-17 13:21:14 UTC)
