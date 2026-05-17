@@ -44,3 +44,4 @@
 - improve: changelog entry 198 (2026-05-17 09:43:30 UTC)
 - fix: changelog entry 200 (2026-05-17 09:44:49 UTC)
 - update: changelog entry 6 (2026-05-17 10:46:05 UTC)
+- fix: changelog entry 14 (2026-05-17 10:51:22 UTC)
