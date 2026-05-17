@@ -58,3 +58,4 @@
 - feature: changelog entry 94 (2026-05-17 11:44:18 UTC)
 - refactor: changelog entry 55 (2026-05-17 11:48:28 UTC)
 - style: changelog entry 104 (2026-05-17 11:50:54 UTC)
+- refactor: changelog entry 109 (2026-05-17 11:54:14 UTC)
