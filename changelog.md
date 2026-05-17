@@ -75,3 +75,4 @@
 - docs: changelog entry 194 (2026-05-17 12:50:08 UTC)
 - fix: changelog entry 198 (2026-05-17 12:52:43 UTC)
 - style: changelog entry 158 (2026-05-17 12:56:00 UTC)
+- feature: changelog entry 160 (2026-05-17 12:57:19 UTC)
