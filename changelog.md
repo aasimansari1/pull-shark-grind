@@ -36,3 +36,4 @@
 - feature: changelog entry 156 (2026-05-17 09:15:56 UTC)
 - add: changelog entry 161 (2026-05-17 09:19:14 UTC)
 - docs: changelog entry 168 (2026-05-17 09:23:48 UTC)
+- improve: changelog entry 181 (2026-05-17 09:32:20 UTC)
