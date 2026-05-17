@@ -23,3 +23,4 @@
 - docs: changelog entry 55 (2026-05-17 08:09:25 UTC)
 - fix: changelog entry 70 (2026-05-17 08:19:23 UTC)
 - improve: changelog entry 78 (2026-05-17 08:24:37 UTC)
+- feature: changelog entry 92 (2026-05-17 08:33:47 UTC)
