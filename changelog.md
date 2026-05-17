@@ -124,3 +124,4 @@
 - feature: changelog entry 49 (2026-05-17 16:09:31 UTC)
 - fix: changelog entry 55 (2026-05-17 16:13:30 UTC)
 - improve: changelog entry 62 (2026-05-17 16:18:09 UTC)
+- improve: changelog entry 78 (2026-05-17 16:28:42 UTC)
