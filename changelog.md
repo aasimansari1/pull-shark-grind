@@ -121,3 +121,4 @@
 - add: changelog entry 43 (2026-05-17 16:05:31 UTC)
 - perf: changelog entry 44 (2026-05-17 16:06:11 UTC)
 - refactor: changelog entry 48 (2026-05-17 16:08:51 UTC)
+- feature: changelog entry 49 (2026-05-17 16:09:31 UTC)
