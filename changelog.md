@@ -19,3 +19,4 @@
 - update: changelog entry 37 (2026-05-17 07:57:29 UTC)
 - style: changelog entry 38 (2026-05-17 07:58:09 UTC)
 - perf: changelog entry 40 (2026-05-17 07:59:30 UTC)
+- add: changelog entry 46 (2026-05-17 08:03:28 UTC)
