@@ -80,3 +80,4 @@
 - docs: changelog entry 164 (2026-05-17 12:59:58 UTC)
 - update: changelog entry 176 (2026-05-17 13:07:59 UTC)
 - perf: changelog entry 178 (2026-05-17 13:09:19 UTC)
+- chore: changelog entry 195 (2026-05-17 13:20:34 UTC)
