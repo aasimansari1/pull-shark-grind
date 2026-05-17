@@ -33,3 +33,4 @@
 - feature: changelog entry 141 (2026-05-17 09:06:00 UTC)
 - style: changelog entry 148 (2026-05-17 09:10:39 UTC)
 - update: changelog entry 154 (2026-05-17 09:14:37 UTC)
+- feature: changelog entry 156 (2026-05-17 09:15:56 UTC)
