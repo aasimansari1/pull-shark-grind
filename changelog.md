@@ -104,3 +104,4 @@
 - feature: changelog entry 129 (2026-05-17 14:49:22 UTC)
 - fix: changelog entry 135 (2026-05-17 14:53:20 UTC)
 - refactor: changelog entry 144 (2026-05-17 14:59:17 UTC)
+- docs: changelog entry 147 (2026-05-17 15:01:20 UTC)
