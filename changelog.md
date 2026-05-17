@@ -16,3 +16,4 @@
 - refactor: changelog entry 13 (2026-05-17 07:41:26 UTC)
 - fix: changelog entry 25 (2026-05-17 07:49:36 UTC)
 - fix: changelog entry 36 (2026-05-17 07:56:50 UTC)
+- update: changelog entry 37 (2026-05-17 07:57:29 UTC)
