@@ -102,3 +102,4 @@
 - fix: changelog entry 108 (2026-05-17 14:35:30 UTC)
 - update: changelog entry 120 (2026-05-17 14:43:24 UTC)
 - feature: changelog entry 129 (2026-05-17 14:49:22 UTC)
+- fix: changelog entry 135 (2026-05-17 14:53:20 UTC)
