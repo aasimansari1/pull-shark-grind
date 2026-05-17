@@ -96,3 +96,4 @@
 - chore: changelog entry 85 (2026-05-17 14:20:19 UTC)
 - update: changelog entry 86 (2026-05-17 14:20:58 UTC)
 - docs: changelog entry 94 (2026-05-17 14:26:15 UTC)
+- update: changelog entry 95 (2026-05-17 14:26:54 UTC)
