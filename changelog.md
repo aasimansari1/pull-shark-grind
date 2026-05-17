@@ -127,3 +127,4 @@
 - improve: changelog entry 78 (2026-05-17 16:28:42 UTC)
 - fix: changelog entry 85 (2026-05-17 16:33:20 UTC)
 - chore: changelog entry 101 (2026-05-17 16:43:55 UTC)
+- docs: changelog entry 104 (2026-05-17 16:45:53 UTC)
