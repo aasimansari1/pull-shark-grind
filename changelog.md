@@ -99,3 +99,4 @@
 - update: changelog entry 95 (2026-05-17 14:26:54 UTC)
 - style: changelog entry 103 (2026-05-17 14:32:11 UTC)
 - feature: changelog entry 104 (2026-05-17 14:32:50 UTC)
+- fix: changelog entry 108 (2026-05-17 14:35:30 UTC)
