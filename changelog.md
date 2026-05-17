@@ -111,3 +111,4 @@
 - docs: changelog entry 179 (2026-05-17 15:22:33 UTC)
 - improve: changelog entry 189 (2026-05-17 15:29:13 UTC)
 - perf: changelog entry 195 (2026-05-17 15:33:12 UTC)
+- feature: changelog entry 199 (2026-05-17 15:35:50 UTC)
