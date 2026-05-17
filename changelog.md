@@ -118,3 +118,4 @@
 - style: changelog entry 22 (2026-05-17 15:51:40 UTC)
 - refactor: changelog entry 28 (2026-05-17 15:55:18 UTC)
 - perf: changelog entry 41 (2026-05-17 16:04:11 UTC)
+- add: changelog entry 43 (2026-05-17 16:05:31 UTC)
