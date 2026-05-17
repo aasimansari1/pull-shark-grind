@@ -28,3 +28,4 @@
 - chore: changelog entry 114 (2026-05-17 08:48:14 UTC)
 - fix: changelog entry 115 (2026-05-17 08:48:53 UTC)
 - chore: changelog entry 127 (2026-05-17 08:56:48 UTC)
+- improve: changelog entry 129 (2026-05-17 08:58:06 UTC)
