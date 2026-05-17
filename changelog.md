@@ -72,3 +72,4 @@
 - add: changelog entry 174 (2026-05-17 12:37:01 UTC)
 - refactor: changelog entry 145 (2026-05-17 12:47:27 UTC)
 - perf: changelog entry 192 (2026-05-17 12:48:48 UTC)
+- docs: changelog entry 194 (2026-05-17 12:50:08 UTC)
