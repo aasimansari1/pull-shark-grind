@@ -60,3 +60,4 @@
 - style: changelog entry 104 (2026-05-17 11:50:54 UTC)
 - refactor: changelog entry 109 (2026-05-17 11:54:14 UTC)
 - style: changelog entry 128 (2026-05-17 12:06:51 UTC)
+- chore: changelog entry 84 (2026-05-17 12:07:33 UTC)
