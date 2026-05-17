@@ -79,3 +79,4 @@
 - update: changelog entry 161 (2026-05-17 12:57:59 UTC)
 - docs: changelog entry 164 (2026-05-17 12:59:58 UTC)
 - update: changelog entry 176 (2026-05-17 13:07:59 UTC)
+- perf: changelog entry 178 (2026-05-17 13:09:19 UTC)
