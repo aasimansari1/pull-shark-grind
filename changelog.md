@@ -26,3 +26,4 @@
 - feature: changelog entry 92 (2026-05-17 08:33:47 UTC)
 - improve: changelog entry 102 (2026-05-17 08:40:22 UTC)
 - chore: changelog entry 114 (2026-05-17 08:48:14 UTC)
+- fix: changelog entry 115 (2026-05-17 08:48:53 UTC)
