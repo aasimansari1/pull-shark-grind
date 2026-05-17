@@ -66,3 +66,4 @@
 - improve: changelog entry 102 (2026-05-17 12:19:22 UTC)
 - chore: changelog entry 110 (2026-05-17 12:24:37 UTC)
 - add: changelog entry 115 (2026-05-17 12:27:51 UTC)
+- refactor: changelog entry 116 (2026-05-17 12:28:30 UTC)
