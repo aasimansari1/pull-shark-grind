@@ -21,3 +21,4 @@
 - perf: changelog entry 40 (2026-05-17 07:59:30 UTC)
 - add: changelog entry 46 (2026-05-17 08:03:28 UTC)
 - docs: changelog entry 55 (2026-05-17 08:09:25 UTC)
+- fix: changelog entry 70 (2026-05-17 08:19:23 UTC)
