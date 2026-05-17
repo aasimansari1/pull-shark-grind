@@ -17,3 +17,4 @@
 - fix: changelog entry 25 (2026-05-17 07:49:36 UTC)
 - fix: changelog entry 36 (2026-05-17 07:56:50 UTC)
 - update: changelog entry 37 (2026-05-17 07:57:29 UTC)
+- style: changelog entry 38 (2026-05-17 07:58:09 UTC)
