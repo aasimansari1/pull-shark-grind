@@ -89,3 +89,4 @@
 - docs: changelog entry 44 (2026-05-17 13:53:08 UTC)
 - add: changelog entry 46 (2026-05-17 13:54:26 UTC)
 - fix: changelog entry 48 (2026-05-17 13:55:46 UTC)
+- update: changelog entry 60 (2026-05-17 14:03:43 UTC)
