@@ -53,3 +53,4 @@
 - refactor: changelog entry 72 (2026-05-17 11:29:45 UTC)
 - perf: changelog entry 30 (2026-05-17 11:32:00 UTC)
 - perf: changelog entry 32 (2026-05-17 11:33:20 UTC)
+- chore: changelog entry 43 (2026-05-17 11:40:34 UTC)
